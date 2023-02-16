@@ -1,2 +1,1 @@
-# rms
-Record Management Software
+# Record Management Software (RMS)
